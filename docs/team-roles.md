@@ -8,7 +8,7 @@ A proposed role is intended to provide a general area of ongoing responsibility 
 
 **A role describes ongoing responsibility; a GitHub issue describes a specific deliverable.** The issues listed for each participant are recommendations for where they might initially contribute, not a complete definition of their role or a restriction on what they may work on.
 
-For example, data engineering is an ongoing area of responsibility that includes the design and maintenance of data-ingestion and data-quality processes. A GitHub issue such as **OF-018 — CSV parsing** describes a specific deliverable within that broader area.
+For example, Sophie's responsibility for frontend/backend integration doesn't mean every integration-related issue must automatically be assigned to her. Some tasks may be better handled by Rushiil or another participant.
 
 ## Proposed Roles
 
