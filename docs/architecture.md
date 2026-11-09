@@ -68,6 +68,7 @@ This diagram represents logical responsibilities, not necessarily separate deplo
 
 The repository should have a relatively straightforward directory structure:
 
+```text
 OpenFinanceLab/
 │
 ├── README.md
@@ -94,6 +95,7 @@ OpenFinanceLab/
 ├── dist/
 │
 └── scripts/
+```
 
 Git doesn't track empty directories, so these (and potentially others) can be created as you work.
 
