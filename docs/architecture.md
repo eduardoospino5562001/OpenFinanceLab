@@ -66,6 +66,37 @@ The proposed architecture consists of the following major components:
 
 This diagram represents logical responsibilities, not necessarily separate deployed services. Initially, these components may reside within a single backend application.
 
+The repository should have a relatively straightforward directory structure:
+
+OpenFinanceLab/
+│
+├── README.md
+├── .gitignore
+│
+├── docs/
+│   ├── project-overview.md
+│   ├── architecture.md
+│   └── development-setup.md
+│
+├── frontend/
+│
+├── backend/
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── README.md
+│
+├── notebooks/
+│
+├── tests/
+│
+├── dist/
+│
+└── scripts/
+
+Git doesn't track empty directories, so these (and potentially others) can be created as you work.
+
 ## 3. Frontend
 
 **Proposed technology:** React and TypeScript.
